@@ -3,9 +3,14 @@ layout: page
 title: About me
 ---
 
-## My name is Taeju Park. 
+## My name is Taeju Park
+
+**working in progress**
+
+### My interests
 
 **working in progress**
 
 ### My story
+
 **working in progress**
