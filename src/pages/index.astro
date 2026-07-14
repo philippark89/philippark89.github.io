@@ -131,7 +131,7 @@ const projects = (await getCollection("projects"))
           <ul class="space-y-4">
             {projects.map((project) => (
               <li>
-                <ArrowCard entry={project} />
+                <ArrowCard entry={project} href={project.data.demoUrl ?? project.data.repoUrl} />
               </li>
             ))}
           </ul>
